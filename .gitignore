@@ -1,0 +1,29 @@
+# secrets
+.env
+*.pem
+*.key
+
+# python
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# local runtime data
+local.db
+local_blobs/
+local_audit/
+out/
+data/eval/
+
+# node
+node_modules/
+frontend/dist/
+frontend/.env
+frontend/.env.local
+
+# editors and OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db

@@ -1,0 +1,6 @@
+PRESCRIPTION
+Patient: Ravi Kumar Sharma
+Doctor: Dr. A. Deshmukh
+Doctor Reg No: MMC-45821
+Diagnosis: Acute appendicitis
+Medicines: Ceftriaxone, Paracetamol, Pantoprazole

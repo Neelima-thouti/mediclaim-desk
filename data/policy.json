@@ -1,0 +1,15 @@
+{
+  "policy_number": "POL-123456",
+  "holder_name": "Ravi Kumar Sharma",
+  "inception_date": "2024-04-01",
+  "current_period_start": "2026-04-01",
+  "current_period_end": "2027-03-31",
+  "sum_insured": 500000,
+  "room_rent_cap_per_day": 5000,
+  "copay_percent": 10,
+  "initial_waiting_days": 30,
+  "claim_intimation_days": 30,
+  "non_payable_categories": ["CONSUMABLE"],
+  "exclusions": ["cosmetic surgery", "infertility treatment", "self-inflicted injury"],
+  "specific_waiting_days": {"hernia": 1095, "cataract": 730, "knee replacement": 1095}
+}

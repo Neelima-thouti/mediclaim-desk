@@ -1,0 +1,18 @@
+HOSPITAL BILL / TAX INVOICE
+Hospital: City Care Hospital, Pune
+Bill No: B-55021
+Bill Date: 2026-08-13
+Patient: Ravi Kumar Sharma
+Policy No: POL-123456
+Admission Date: 2026-08-10
+Discharge Date: 2026-08-13
+Diagnosis: Acute appendicitis - laparoscopic appendectomy
+Items:
+- Room rent (semi-private) | ROOM | 3 | 4000 | 12000
+- Surgeon fee | PROFESSIONAL | 1 | 40000 | 40000
+- Anaesthesia fee | PROFESSIONAL | 1 | 8000 | 8000
+- Operation theatre charges | OTHER | 1 | 15000 | 15000
+- Medicines | MEDICINE | 1 | 9500 | 9500
+- Blood tests and ultrasound | DIAGNOSTIC | 1 | 6000 | 6000
+- Gloves, masks and disposables | CONSUMABLE | 1 | 2500 | 2500
+Total: 93000

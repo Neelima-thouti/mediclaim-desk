@@ -1,0 +1,8 @@
+DISCHARGE SUMMARY
+Hospital: City Care Hospital, Pune
+Patient: Ravi Kumar Sharma
+Admission Date: 2026-08-10
+Discharge Date: 2026-08-13
+Diagnosis: Acute appendicitis - laparoscopic appendectomy
+Doctor: Dr. A. Deshmukh
+Doctor Reg No: MMC-45821

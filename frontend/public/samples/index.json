@@ -1,0 +1,14 @@
+[
+  {
+    "id": "claim_001_clean",
+    "title": "Clean claim (appendicitis)",
+    "blurb": "A valid claim. Expect a partial approval after consumables and co-pay are deducted.",
+    "files": ["claim_form.txt", "hospital_bill.txt", "discharge_summary.txt", "id_proof.txt", "prescription.txt"]
+  },
+  {
+    "id": "claim_002_suspicious",
+    "title": "Suspicious claim (hernia)",
+    "blurb": "Duplicate bill, wrong total, different patient name, waiting period, missing ID proof.",
+    "files": ["claim_form.txt", "hospital_bill.txt", "discharge_summary.txt"]
+  }
+]

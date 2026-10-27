@@ -1,0 +1,8 @@
+CLAIM FORM - HEALTH INSURANCE REIMBURSEMENT
+Patient: Ravi Kumar Sharma
+Policy No: POL-123456
+Hospital: City Care Hospital, Pune
+Admission Date: 2026-09-02
+Discharge Date: 2026-09-05
+Submission Date: 2026-10-10
+Claim Amount: 150000

@@ -1,0 +1,18 @@
+HOSPITAL BILL / TAX INVOICE
+Hospital: City Care Hospital, Pune
+Bill No: B-77821
+Bill Date: 2026-09-05
+Patient: Ravi Kumar Sharma
+Policy No: POL-123456
+Admission Date: 2026-09-02
+Discharge Date: 2026-09-05
+Diagnosis: Right inguinal hernia - open mesh repair
+Items:
+- Room rent (deluxe) | ROOM | 3 | 7500 | 22500
+- Surgeon fee | PROFESSIONAL | 1 | 60000 | 60000
+- Anaesthesia fee | PROFESSIONAL | 1 | 12000 | 12000
+- Operation theatre charges | OTHER | 1 | 20000 | 20000
+- Medicines | MEDICINE | 1 | 14000 | 14000
+- Blood tests and ultrasound | DIAGNOSTIC | 1 | 7500 | 7500
+- Gloves, masks and disposables | CONSUMABLE | 1 | 2000 | 2000
+Total: 150000

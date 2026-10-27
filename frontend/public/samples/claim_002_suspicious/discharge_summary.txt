@@ -1,0 +1,7 @@
+DISCHARGE SUMMARY
+Hospital: City Care Hospital, Pune
+Patient: Rohit Sharma
+Admission Date: 2026-09-02
+Discharge Date: 2026-09-05
+Diagnosis: Right inguinal hernia - open mesh repair
+Doctor: Dr. A. Deshmukh

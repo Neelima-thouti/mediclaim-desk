@@ -1,0 +1,22 @@
+# core API and workflow
+pydantic>=2.5
+fastapi>=0.110
+uvicorn>=0.29
+python-multipart>=0.0.9
+sqlalchemy>=2.0
+pypdf>=4.0
+openai>=1.60
+langgraph>=1.0
+# policy chunking and retrieval modules
+numpy>=1.26
+langchain-core>=1.0
+langchain-openai>=1.0
+langchain-text-splitters>=1.0
+# tests
+pytest>=8.0
+httpx>=0.27
+# Optional, only for Azure storage (see README):
+# pyodbc>=5.0
+# azure-identity>=1.17
+# azure-cosmos>=4.7
+# azure-storage-blob>=12.20
